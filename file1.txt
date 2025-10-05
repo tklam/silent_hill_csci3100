@@ -1,10 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-I  d  
-
-=======
- o   
->>>>>>> remotes/origin/branch3
-=======
-    g
->>>>>>> remotes/origin/branch4
+I do g
