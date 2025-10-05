@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 I  d  
 
+=======
+ o   
+>>>>>>> remotes/origin/branch3
