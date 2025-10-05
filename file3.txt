@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 le  n  
 
+=======
+  o  
+>>>>>>> remotes/origin/branch5
