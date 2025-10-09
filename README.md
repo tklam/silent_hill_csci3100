@@ -1,6 +1,3 @@
-In shadows deep, Umbrello schemes,
-With T-Virus whispers, shattering dreams.
-From vials born, a nightmare's flight,
-In their pursuit, we lose the light.
+# CSCI3100 Assignment 3
 
-1155213041
+My passphrase for decryption: SauHo
